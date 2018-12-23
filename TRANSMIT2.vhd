@@ -545,23 +545,3 @@ end process fireprocess;
    
   
 end TRANSMIT_BEHAVIOR ;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
